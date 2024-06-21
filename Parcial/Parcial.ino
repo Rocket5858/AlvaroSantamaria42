@@ -5,7 +5,7 @@
 char buffer[10];   // Buffer para almacenar la cadena recibida
 int index = 0;     // Índice para el buffer
 int numero = 0;
-esdicion
+//HOLAAA SOY ALEXIA
 void setup() {
   // Configuración de UART para transmisión y recepción
   UBRR0H = (uint8_t)(UBRR_VALUE >> 8);                    // Configura los bits altos del registro UBRR0
